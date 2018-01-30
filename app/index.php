@@ -12,6 +12,8 @@
 
 	#logo {
 		margin-bottom: 40px;
+		margin: 0 auto;
+		width: 40%
 	}
 	</style>
 </head>
