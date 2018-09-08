@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Application Cloud now Supports Docker Containers!</title>
+	<title>Stakater PHP Hello World App!</title>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<style>
 	body {
